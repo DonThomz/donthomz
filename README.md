@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Homeys](http://homeys.io/)
 
-- 💪 I’m mostly working **Nuxt3, Vue3**
+- 💪 I’m mostly working **Nuxt, Vue**
 
 - 🌱 I’m currently learning **Astro, TreeJS and WebGL Animation**
 
