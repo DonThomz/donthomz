@@ -1,9 +1,4 @@
-<!-- ============================================================
-  Remplace donthomz par ton pseudo GitHub (Ctrl+F → donthomz).
-  Ce fichier doit vivre dans le repo public donthomz/donthomz.
-============================================================ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Thomas%20Guillaume&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Welcome&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <div align="center">
 
