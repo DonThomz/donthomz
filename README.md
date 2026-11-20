@@ -15,20 +15,5 @@
 
 </div>
 
-<br/>
-
-## 👨‍💻 &nbsp;À propos
-
-```ts
-const thomas = {
-  role:     "Product Engineer",
-  company:  "Stoïk",
-  location: "France 🇫🇷",
-  currently: ["Construire un produit qui compte", "Peaufiner chaque pixel", "Automatiser tout ce qui se répète"],
-  philosophy: "Simple > clever. Shipped > perfect.",
-} as const;
-```
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="footer" />
